@@ -1,0 +1,16 @@
+footer{
+    min-height: 10vh;
+    background-color: black;
+    color: white;
+    padding-top: 3vh;
+    margin-top: 3vh;
+}
+a{
+    color: black;
+}
+a:hover{
+    color: red;
+}
+footer p a {
+    color: white;
+}
